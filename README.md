@@ -1,6 +1,7 @@
 # TeachMeBack 🎓
+Note: This repository is a fork of the original team project developed collaboratively by four contributors for Columbia University’s Engineering SaaS course.
 
-TeachMeBack is a simple Ruby on Rails SaaS app that lets students exchange skills — like *“I’ll teach you guitar if you help me with Python.”*
+TeachMeBack is a simple Ruby on Rails SaaS app that lets students exchange skills - like *“I’ll teach you guitar if you help me with Python.”*
 ---
 Team Members:
 * Annie Xu – jx2603
